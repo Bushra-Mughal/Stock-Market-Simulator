@@ -1,5 +1,5 @@
 # Stock-Market-Simulator
-Learn and trade in real-time stock market!
+💮 Learn and trade in real-time stock market!
 
 ## INTRODUCTION:
 As this crowded trading market place might seems confusing to a fresh-man, I introduce you a simple yet effective "python dashboard" webapp which mimics the real-time stock-exchange market and enable users to: <br> <br>
